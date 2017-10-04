@@ -1,0 +1,12 @@
+1 : adoption-of-the-budget-resolution=Yes,  ---> Democrat, 
+
+2 : aid-to-nicaraguan-contras=Yes,  ---> Democrat, 
+
+3 : physician-fee-freeze=No,  ---> Democrat, 
+
+4 : Democrat,  ---> physician-fee-freeze=No, 
+
+5 : adoption-of-the-budget-resolution=Yes, physician-fee-freeze=No,  ---> Democrat, 
+
+6 : Democrat, adoption-of-the-budget-resolution=Yes,  ---> physician-fee-freeze=No, 
+
