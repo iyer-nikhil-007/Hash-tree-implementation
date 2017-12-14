@@ -8,6 +8,7 @@ The implementation of this project gives vital information hidden within the dat
 Dataset:
 --------
 vote.arff
+
 Files such as attributes.txt, data_aftr_preprocess_num.txt and data_aftr_preprocess_string.txt have been created after processing vote.arff for programming simplicity.
 
 Code:
@@ -17,6 +18,7 @@ DM.cpp
 Output File:
 ------------
 Output.txt
+
 By changing values inside the cpp files for support count and confidence, the output files will generate different results.
 
 Link for actual dataset:
